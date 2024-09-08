@@ -5,7 +5,7 @@
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 ## Architecture 
-![img5](https://github.com/user-attachments/assets/b698194b-08bb-4683-83e6-96e192da382f)
+<img src="architecture.jpg">
 
 ## Technology Used
 - Programming Language - Python
@@ -30,5 +30,5 @@ More info about dataset can be found here:
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
-![img6](https://github.com/user-attachments/assets/0eff25ea-adfd-411b-82d8-42a96b53a415)
+<img src="data_model.jpeg">
 
